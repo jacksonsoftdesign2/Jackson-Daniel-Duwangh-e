@@ -15,8 +15,8 @@
 
 ### Social Links
 - [Instagram](https://instagram.com/jacksonsoftdesign)
-- [LinkedIn Personal](https://linkedin.com/in/jackson_duwangh'e)
-- [LinkedIn Brand](https://linkedin.com/in/jackson_duwangh'e)
+- [LinkedIn Personal](https://linkedin.com/in/jackson-duwangh'e)
+- [LinkedIn Brand](https://linkedin.com/in/jackson-duwangh'e)
 - [Facebook Personal](https://facebook.com/jackson_duwanghe)
 - [Facebook Brand](https://facebook.com/jacksonsoftdesign)
 - [GitHub](https://github.com/jacksonsoftdesign2)
